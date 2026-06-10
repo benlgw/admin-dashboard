@@ -104,7 +104,7 @@ header div:nth-child(4) button {
 
 .sidebar {
 	display: grid;
-	grid-template-rows: 1fr repeat(3, 4fr);
+	grid-template-rows: 1fr repeat(5, 4fr);
 	/* grid-auto-rows: auto; */
 	gap: 50px;
 	grid-column: 1 / 2;
